@@ -1,0 +1,13 @@
+{
+  "FFlagHandleAltEnterFullscreenManually": "False",
+  "FFlagDebugGraphicsPreferD3D11": "True",
+  "FIntDebugForceMSAASamples": "1",
+  "DFFlagTextureQualityOverrideEnabled": "True",
+  "DFIntTextureQualityOverride": "0",
+  "DFIntDebugFRMQualityLevelOverride": "1",
+  "FFlagDebugSkyGray": "True",
+  "FIntFRMMinGrassDistance": "0",
+  "FIntFRMMaxGrassDistance": "0",
+  "FIntGrassMovementReducedMotionFactor": "0",
+  "DFFlagDisableDPIScale": "True"
+}
